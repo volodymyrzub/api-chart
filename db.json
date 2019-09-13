@@ -1,4 +1,4 @@
-openedData: any[] = [
+{
     {
       data: [435, 321, 532, 801, 1231, 1098, 732, 321, 451, 482, 513, 397, 43],
       borderColor: '#F8CD46',
@@ -14,4 +14,4 @@ openedData: any[] = [
       borderColor: '#9F63BD',
       label: 'RFQs Awarded',
     },
-  ];
+}
