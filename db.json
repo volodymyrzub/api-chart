@@ -2,7 +2,7 @@
     {
       "data": [435, 321, 532, 801, 1231, 1098, 732, 321, 451, 482, 513, 397, 43],
       "borderColor": "#F8CD46",
-      label: "RFQ Drafts Created"
+      "label": "RFQ Drafts Created"
     },
     {
       "data": [43, 32, 53, 80, 123, 109, 73, 32, 45, 48, 51, 39, 43],
